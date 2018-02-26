@@ -1,11 +1,8 @@
-/*
-Assignment#4 
-LinearList.java
-Megan Respicio
-cssc0935
-*/
-package data_structures;
+/* By: Megan Respicio
+   Date: October 2017
+   Github: github.com/mrespicio */
 
+package data_structures;
 import java.util.Iterator;
 import java.util.ConcurrentModificationException;
 import java.util.NoSuchElementException;
