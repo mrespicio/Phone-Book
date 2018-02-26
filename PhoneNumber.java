@@ -1,3 +1,7 @@
+/* By: Megan Respicio
+   Date: December 2017
+   Github: github.com/mrespicio */
+
 import java.util.Iterator;
 import java.util.regex.Pattern;
 
