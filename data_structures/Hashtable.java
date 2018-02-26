@@ -1,12 +1,4 @@
-/*
-Assignment#4
-Hashtable.java
-Megan Respicio
-cssc0935
-*/
-
 package data_structures;
-
 import java.util.Iterator;
 import java.util.ConcurrentModificationException;
 
