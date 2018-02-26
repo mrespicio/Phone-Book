@@ -1,12 +1,6 @@
-/*  DictionaryADT.java
-    Dictionary interface.
-*/   
-
 package data_structures;
-
 import java.util.Iterator;
 import java.util.NoSuchElementException;
-
 
 public interface DictionaryADT<K extends Comparable<K>,V> {
 
