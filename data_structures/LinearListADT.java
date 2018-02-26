@@ -1,8 +1,4 @@
 package data_structures;
-
-
-//package data_structures;
-
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
